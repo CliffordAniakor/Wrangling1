@@ -18,4 +18,4 @@ This data was collected from  the [austin water quality page](https://data.austi
 ## Limitations
 In order to respect the original work performed using R. The author (who performed his using Python) reduced the amount of outliers present but decided to leave out some since those were the decisions of the first author.
 
-### Authors: Originally performed by Dr. Mike Chapple using R. Redone by Clifford Aniakor Using Python
+### Authors: Originally performed by Dr. Mike Chapple using R. Redone by Clifford Okwudili Aniakor Using Python
